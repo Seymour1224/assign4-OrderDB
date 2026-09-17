@@ -9,7 +9,11 @@ Using the starter Eclipse Project, implement the **OrderDB** class which manages
     void loadOrders(String fileName);
     void showOrders();
 ```
-The **loadOrders()** should load the file contents into an array(**Not an ArrayList**) of **Order** objects. The report output created from your **showOrders()** implementation should look **EXACTLY** like the following:
+The **loadOrders()** should load the file contents into an array(**Not an ArrayList**) of **Order** objects. 
+
+![Order Database](orderDB.png)
+
+The report output created from your **showOrders()** implementation should look **EXACTLY** like the following:
 
 ```
 Order ID Product                         Total Amt
