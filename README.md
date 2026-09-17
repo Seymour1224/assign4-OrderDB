@@ -3,7 +3,7 @@
 
 ### Instructions
 
-Using the starter Eclipse Project, implement the **OrderDB** class which manages an **array of Order objects**. Create an **Order.class** with set/get methods and constructors.  Each instance of the Order class holds one Order record from the file, **orders.txt**. The orders text file (**orders.txt**) contains the 50 example orders with a header record at the top of the file.
+Using the starter Eclipse Project, implement the **OrderDB class** which manages an **array of Order objects**. Create an **Order.class** with *set/get methods and constructors.*  Each instance of the Order class holds one Order record from the file, **orders.txt**. The orders text file (**orders.txt**) contains the 50 example orders with a header record at the top of the file.
 
 ```java
     void loadOrders(String fileName);
